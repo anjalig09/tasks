@@ -1,0 +1,13 @@
+C:\Users\anjali.g\source\repos\replacestring\replacestring\bin\Debug\netcoreapp3.1\replacestring.exe
+C:\Users\anjali.g\source\repos\replacestring\replacestring\bin\Debug\netcoreapp3.1\replacestring.deps.json
+C:\Users\anjali.g\source\repos\replacestring\replacestring\bin\Debug\netcoreapp3.1\replacestring.runtimeconfig.json
+C:\Users\anjali.g\source\repos\replacestring\replacestring\bin\Debug\netcoreapp3.1\replacestring.runtimeconfig.dev.json
+C:\Users\anjali.g\source\repos\replacestring\replacestring\bin\Debug\netcoreapp3.1\replacestring.dll
+C:\Users\anjali.g\source\repos\replacestring\replacestring\bin\Debug\netcoreapp3.1\replacestring.pdb
+C:\Users\anjali.g\source\repos\replacestring\replacestring\obj\Debug\netcoreapp3.1\replacestring.csproj.AssemblyReference.cache
+C:\Users\anjali.g\source\repos\replacestring\replacestring\obj\Debug\netcoreapp3.1\replacestring.AssemblyInfoInputs.cache
+C:\Users\anjali.g\source\repos\replacestring\replacestring\obj\Debug\netcoreapp3.1\replacestring.AssemblyInfo.cs
+C:\Users\anjali.g\source\repos\replacestring\replacestring\obj\Debug\netcoreapp3.1\replacestring.csproj.CoreCompileInputs.cache
+C:\Users\anjali.g\source\repos\replacestring\replacestring\obj\Debug\netcoreapp3.1\replacestring.dll
+C:\Users\anjali.g\source\repos\replacestring\replacestring\obj\Debug\netcoreapp3.1\replacestring.pdb
+C:\Users\anjali.g\source\repos\replacestring\replacestring\obj\Debug\netcoreapp3.1\replacestring.genruntimeconfig.cache

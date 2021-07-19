@@ -1,0 +1,13 @@
+C:\Users\anjali.g\source\repos\palindromenumber\palindromenumber\obj\Debug\netcoreapp3.1\palindromenumber.csproj.AssemblyReference.cache
+C:\Users\anjali.g\source\repos\palindromenumber\palindromenumber\obj\Debug\netcoreapp3.1\palindromenumber.AssemblyInfoInputs.cache
+C:\Users\anjali.g\source\repos\palindromenumber\palindromenumber\obj\Debug\netcoreapp3.1\palindromenumber.AssemblyInfo.cs
+C:\Users\anjali.g\source\repos\palindromenumber\palindromenumber\obj\Debug\netcoreapp3.1\palindromenumber.csproj.CoreCompileInputs.cache
+C:\Users\anjali.g\source\repos\palindromenumber\palindromenumber\bin\Debug\netcoreapp3.1\palindromenumber.exe
+C:\Users\anjali.g\source\repos\palindromenumber\palindromenumber\bin\Debug\netcoreapp3.1\palindromenumber.deps.json
+C:\Users\anjali.g\source\repos\palindromenumber\palindromenumber\bin\Debug\netcoreapp3.1\palindromenumber.runtimeconfig.json
+C:\Users\anjali.g\source\repos\palindromenumber\palindromenumber\bin\Debug\netcoreapp3.1\palindromenumber.runtimeconfig.dev.json
+C:\Users\anjali.g\source\repos\palindromenumber\palindromenumber\bin\Debug\netcoreapp3.1\palindromenumber.dll
+C:\Users\anjali.g\source\repos\palindromenumber\palindromenumber\bin\Debug\netcoreapp3.1\palindromenumber.pdb
+C:\Users\anjali.g\source\repos\palindromenumber\palindromenumber\obj\Debug\netcoreapp3.1\palindromenumber.dll
+C:\Users\anjali.g\source\repos\palindromenumber\palindromenumber\obj\Debug\netcoreapp3.1\palindromenumber.pdb
+C:\Users\anjali.g\source\repos\palindromenumber\palindromenumber\obj\Debug\netcoreapp3.1\palindromenumber.genruntimeconfig.cache
